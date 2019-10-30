@@ -1,0 +1,24 @@
+    #cabeçalho {
+        background-color: rgb(24, 23, 23);
+        text-align: left;
+    }
+    
+    #corpo {
+        background-color: whitesmoke;
+    }
+    
+    #rodape {
+        background-color: whitesmoke;
+        text-align: center;
+    }
+    
+    .footer {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+    }
+    
+    #textbox {
+        height: 300px;
+        text-align: initial;
+    }
